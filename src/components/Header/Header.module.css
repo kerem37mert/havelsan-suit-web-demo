@@ -1,0 +1,9 @@
+.header {
+    background-color: var(--primary);
+    padding: 1rem;
+}
+
+.title {
+    color: var(--light);
+    font-size: 1.5rem;
+}

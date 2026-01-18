@@ -1,0 +1,5 @@
+.video-container {
+    background-color: var(--primary);
+    margin-top: 100px;
+    text-align: center;
+}
