@@ -1,4 +1,4 @@
-import classes from "./Video.module.css";
+import classes from "./Video.module.scss";
 import { useEffect, useRef, useState } from "react";
 import Webcam from "react-webcam";
 import { Circle, Layer, Stage } from "react-konva";
